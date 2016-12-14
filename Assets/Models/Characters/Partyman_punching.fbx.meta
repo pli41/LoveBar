@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: c673f27ac6ba7de4a833956872e01d61
+timeCreated: 1481500983
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: manbackup:Head
+    100002: manbackup:HeadTop_End
+    100004: manbackup:Hips
+    100006: manbackup:LeftArm
+    100008: manbackup:LeftFoot
+    100010: manbackup:LeftForeArm
+    100012: manbackup:LeftHand
+    100014: manbackup:LeftHandIndex1
+    100016: manbackup:LeftHandIndex2
+    100018: manbackup:LeftHandIndex3
+    100020: manbackup:LeftHandIndex4
+    100022: manbackup:LeftHandThumb1
+    100024: manbackup:LeftHandThumb2
+    100026: manbackup:LeftHandThumb3
+    100028: manbackup:LeftHandThumb4
+    100030: manbackup:LeftLeg
+    100032: manbackup:LeftShoulder
+    100034: manbackup:LeftToe_End
+    100036: manbackup:LeftToeBase
+    100038: manbackup:LeftUpLeg
+    100040: manbackup:Neck
+    100042: manbackup:RightArm
+    100044: manbackup:RightFoot
+    100046: manbackup:RightForeArm
+    100048: manbackup:RightHand
+    100050: manbackup:RightHandIndex1
+    100052: manbackup:RightHandIndex2
+    100054: manbackup:RightHandIndex3
+    100056: manbackup:RightHandIndex4
+    100058: manbackup:RightHandThumb1
+    100060: manbackup:RightHandThumb2
+    100062: manbackup:RightHandThumb3
+    100064: manbackup:RightHandThumb4
+    100066: manbackup:RightLeg
+    100068: manbackup:RightShoulder
+    100070: manbackup:RightToe_End
+    100072: manbackup:RightToeBase
+    100074: manbackup:RightUpLeg
+    100076: manbackup:Spine
+    100078: manbackup:Spine1
+    100080: manbackup:Spine2
+    100082: //RootNode
+    400000: manbackup:Head
+    400002: manbackup:HeadTop_End
+    400004: manbackup:Hips
+    400006: manbackup:LeftArm
+    400008: manbackup:LeftFoot
+    400010: manbackup:LeftForeArm
+    400012: manbackup:LeftHand
+    400014: manbackup:LeftHandIndex1
+    400016: manbackup:LeftHandIndex2
+    400018: manbackup:LeftHandIndex3
+    400020: manbackup:LeftHandIndex4
+    400022: manbackup:LeftHandThumb1
+    400024: manbackup:LeftHandThumb2
+    400026: manbackup:LeftHandThumb3
+    400028: manbackup:LeftHandThumb4
+    400030: manbackup:LeftLeg
+    400032: manbackup:LeftShoulder
+    400034: manbackup:LeftToe_End
+    400036: manbackup:LeftToeBase
+    400038: manbackup:LeftUpLeg
+    400040: manbackup:Neck
+    400042: manbackup:RightArm
+    400044: manbackup:RightFoot
+    400046: manbackup:RightForeArm
+    400048: manbackup:RightHand
+    400050: manbackup:RightHandIndex1
+    400052: manbackup:RightHandIndex2
+    400054: manbackup:RightHandIndex3
+    400056: manbackup:RightHandIndex4
+    400058: manbackup:RightHandThumb1
+    400060: manbackup:RightHandThumb2
+    400062: manbackup:RightHandThumb3
+    400064: manbackup:RightHandThumb4
+    400066: manbackup:RightLeg
+    400068: manbackup:RightShoulder
+    400070: manbackup:RightToe_End
+    400072: manbackup:RightToeBase
+    400074: manbackup:RightUpLeg
+    400076: manbackup:Spine
+    400078: manbackup:Spine1
+    400080: manbackup:Spine2
+    400082: //RootNode
+    7400000: DatingDude_Punch
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'mixamo.com' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'manbackup:Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DatingDude_Punch
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.9
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: manbackup:Hips
+        weight: 1
+      - path: manbackup:Hips/manbackup:LeftUpLeg
+        weight: 1
+      - path: manbackup:Hips/manbackup:LeftUpLeg/manbackup:LeftLeg
+        weight: 1
+      - path: manbackup:Hips/manbackup:LeftUpLeg/manbackup:LeftLeg/manbackup:LeftFoot
+        weight: 1
+      - path: manbackup:Hips/manbackup:LeftUpLeg/manbackup:LeftLeg/manbackup:LeftFoot/manbackup:LeftToeBase
+        weight: 1
+      - path: manbackup:Hips/manbackup:LeftUpLeg/manbackup:LeftLeg/manbackup:LeftFoot/manbackup:LeftToeBase/manbackup:LeftToe_End
+        weight: 0
+      - path: manbackup:Hips/manbackup:RightUpLeg
+        weight: 1
+      - path: manbackup:Hips/manbackup:RightUpLeg/manbackup:RightLeg
+        weight: 1
+      - path: manbackup:Hips/manbackup:RightUpLeg/manbackup:RightLeg/manbackup:RightFoot
+        weight: 1
+      - path: manbackup:Hips/manbackup:RightUpLeg/manbackup:RightLeg/manbackup:RightFoot/manbackup:RightToeBase
+        weight: 1
+      - path: manbackup:Hips/manbackup:RightUpLeg/manbackup:RightLeg/manbackup:RightFoot/manbackup:RightToeBase/manbackup:RightToe_End
+        weight: 0
+      - path: manbackup:Hips/manbackup:Spine
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand/manbackup:LeftHandIndex1
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand/manbackup:LeftHandIndex1/manbackup:LeftHandIndex2
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand/manbackup:LeftHandIndex1/manbackup:LeftHandIndex2/manbackup:LeftHandIndex3
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand/manbackup:LeftHandIndex1/manbackup:LeftHandIndex2/manbackup:LeftHandIndex3/manbackup:LeftHandIndex4
+        weight: 0
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand/manbackup:LeftHandThumb1
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand/manbackup:LeftHandThumb1/manbackup:LeftHandThumb2
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand/manbackup:LeftHandThumb1/manbackup:LeftHandThumb2/manbackup:LeftHandThumb3
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:LeftShoulder/manbackup:LeftArm/manbackup:LeftForeArm/manbackup:LeftHand/manbackup:LeftHandThumb1/manbackup:LeftHandThumb2/manbackup:LeftHandThumb3/manbackup:LeftHandThumb4
+        weight: 0
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:Neck
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:Neck/manbackup:Head
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:Neck/manbackup:Head/manbackup:HeadTop_End
+        weight: 0
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand/manbackup:RightHandIndex1
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand/manbackup:RightHandIndex1/manbackup:RightHandIndex2
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand/manbackup:RightHandIndex1/manbackup:RightHandIndex2/manbackup:RightHandIndex3
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand/manbackup:RightHandIndex1/manbackup:RightHandIndex2/manbackup:RightHandIndex3/manbackup:RightHandIndex4
+        weight: 0
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand/manbackup:RightHandThumb1
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand/manbackup:RightHandThumb1/manbackup:RightHandThumb2
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand/manbackup:RightHandThumb1/manbackup:RightHandThumb2/manbackup:RightHandThumb3
+        weight: 1
+      - path: manbackup:Hips/manbackup:Spine/manbackup:Spine1/manbackup:Spine2/manbackup:RightShoulder/manbackup:RightArm/manbackup:RightForeArm/manbackup:RightHand/manbackup:RightHandThumb1/manbackup:RightHandThumb2/manbackup:RightHandThumb3/manbackup:RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: manbackup:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manbackup:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Partyman_punching(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:Hips
+      position: {x: 0.000044069136, y: 0.014573963, z: -0.00052304723}
+      rotation: {x: -0.09489121, y: 0.026146512, z: -0.024571804, w: 0.99484086}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftUpLeg
+      position: {x: -0.0010909999, y: -0.00112, z: 0.00008399999}
+      rotation: {x: -0.18910627, y: 0.007153835, z: 0.9805982, w: 0.05113618}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftLeg
+      position: {x: -0, y: 0.007541, z: 0}
+      rotation: {x: -0.32355985, y: 0.041571654, z: 0.0004997595, w: 0.9452939}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftFoot
+      position: {x: -0, y: 0.0061879996, z: 0}
+      rotation: {x: 0.82038563, y: 0.04275895, z: 0.11095082, w: 0.5593112}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftToeBase
+      position: {x: -0, y: 0.0023309998, z: 0}
+      rotation: {x: 0.2257037, y: 0.12679565, z: -0.022807864, w: 0.96564}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftToe_End
+      position: {x: -0, y: 0.000947, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightUpLeg
+      position: {x: 0.0010909999, y: -0.00112, z: 0.000097000004}
+      rotation: {x: 0.062198482, y: 0.018363925, z: 0.9942859, w: -0.084792554}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightLeg
+      position: {x: -0, y: 0.007541, z: 0}
+      rotation: {x: -0.3410706, y: 0.021488927, z: -0.0418859, w: 0.93885815}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightFoot
+      position: {x: -0, y: 0.0061879996, z: 0}
+      rotation: {x: 0.8200364, y: -0.04045438, z: -0.070806675, w: 0.56647176}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightToeBase
+      position: {x: -0, y: 0.002297, z: 0}
+      rotation: {x: 0.28386822, y: -0.12704153, z: 0.013835713, w: 0.95030934}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightToe_End
+      position: {x: -0, y: 0.000948, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:Spine
+      position: {x: -0, y: 0.002012, z: -0.000043}
+      rotation: {x: 0.08393706, y: -0.0014515336, z: 0.02716305, w: 0.9960997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:Spine1
+      position: {x: -0, y: 0.002347, z: 0}
+      rotation: {x: 0.07393756, y: -0.0036745511, z: 0.0134128705, w: 0.9971659}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:Spine2
+      position: {x: -0, y: 0.002683, z: 0}
+      rotation: {x: 0.07381958, y: -0.0043548457, z: 0.013562496, w: 0.9971699}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftShoulder
+      position: {x: -0.001155, y: 0.0025789998, z: -0.000011}
+      rotation: {x: 0.5532308, y: -0.43991867, z: 0.5749033, w: 0.41218138}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftArm
+      position: {x: -0, y: 0.002475, z: 0}
+      rotation: {x: -0.13187921, y: 0.06764838, z: -0.028733544, w: 0.9885373}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftForeArm
+      position: {x: -0, y: 0.005127, z: 0}
+      rotation: {x: -0.027893769, y: 0.033715703, z: 0.011269691, w: 0.99897856}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHand
+      position: {x: -0, y: 0.004329, z: 0}
+      rotation: {x: -0.23605926, y: -0.26717976, z: -0.12730396, w: 0.92557263}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHandIndex1
+      position: {x: -0, y: 0.001277, z: 0}
+      rotation: {x: 0.18950331, y: -0.0017561311, z: 0.025089486, w: 0.9815579}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHandIndex2
+      position: {x: -0.0000050000003, y: 0.000478, z: 0}
+      rotation: {x: 0.037803337, y: -0.002406268, z: 0.02315912, w: 0.9990139}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHandIndex3
+      position: {x: 0.000011, y: 0.000333, z: 0}
+      rotation: {x: 0.040735796, y: 0.00035012394, z: -0.035679042, w: 0.9985327}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHandIndex4
+      position: {x: -0.000006, y: 0.000145, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHandThumb1
+      position: {x: 0.00031399998, y: 0.00063, z: 0}
+      rotation: {x: 0.07988125, y: -0.024615726, z: -0.23027748, w: 0.96952844}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHandThumb2
+      position: {x: 0.000008999999, y: 0.000563, z: 0}
+      rotation: {x: 0.0003583356, y: 0.054561105, z: 0.053295083, w: 0.9970871}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHandThumb3
+      position: {x: 0.000020999998, y: 0.000335, z: 0}
+      rotation: {x: -0.01249211, y: 0.033067994, z: -0.083719395, w: 0.99586225}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:LeftHandThumb4
+      position: {x: -0.00003, y: 0.00016699999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:Neck
+      position: {x: -0, y: 0.0030180002, z: 0}
+      rotation: {x: 0.0031037817, y: -0.0033578365, z: 0.073897675, w: 0.9972554}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:Head
+      position: {x: -0, y: 0.0026480001, z: 0.00022999999}
+      rotation: {x: -0.37676454, y: 0.033665933, z: -0.030383209, w: 0.9251984}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:HeadTop_End
+      position: {x: -0, y: 0.007587, z: 0.00065899995}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightShoulder
+      position: {x: 0.001155, y: 0.0025789998, z: -0.000008}
+      rotation: {x: 0.6275067, y: 0.3933999, z: -0.53042495, w: 0.41245764}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightArm
+      position: {x: -0, y: 0.002475, z: 0}
+      rotation: {x: -0.14272961, y: -0.026556784, z: -0.028381817, w: 0.98899823}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightForeArm
+      position: {x: -0, y: 0.005127, z: 0}
+      rotation: {x: -0.013520147, y: -0.014008616, z: -0.0099374745, w: 0.99976104}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHand
+      position: {x: -0, y: 0.00433, z: 0}
+      rotation: {x: -0.040152144, y: 0.3601745, z: 0.022795292, w: 0.93174165}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHandIndex1
+      position: {x: -0, y: 0.001203, z: 0}
+      rotation: {x: 0.11978656, y: -0.0012341439, z: 0.002493467, w: 0.9927958}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHandIndex2
+      position: {x: 0.000010000001, y: 0.000441, z: 0}
+      rotation: {x: 0.028376421, y: 0.00033530372, z: -0.027013721, w: 0.9992322}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHandIndex3
+      position: {x: -0.000012, y: 0.000417, z: 0}
+      rotation: {x: 0.036064614, y: 0.0020634243, z: 0.018491624, w: 0.9991763}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHandIndex4
+      position: {x: 0.000002, y: 0.000175, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHandThumb1
+      position: {x: -0.000272, y: 0.000634, z: 0}
+      rotation: {x: -0.20649713, y: -0.04789226, z: 0.2263649, w: 0.95069665}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHandThumb2
+      position: {x: 0.0000069999996, y: 0.00055199995, z: 0}
+      rotation: {x: 0.008441789, y: 0.0046248157, z: -0.14250182, w: 0.9897477}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHandThumb3
+      position: {x: -0.000065, y: 0.000326, z: 0}
+      rotation: {x: -0.021658149, y: -0.0066189123, z: 0.22735411, w: 0.9735488}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: manbackup:RightHandThumb4
+      position: {x: 0.000057999998, y: 0.00021500001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

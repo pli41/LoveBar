@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 8b4283027ab130c42aeae3dca4481483
+timeCreated: 1481500691
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: dude:Dude
+    100002: dude:Head
+    100004: dude:HeadTop_End
+    100006: dude:Hips
+    100008: dude:LeftArm
+    100010: dude:LeftFoot
+    100012: dude:LeftForeArm
+    100014: dude:LeftHand
+    100016: dude:LeftHandIndex1
+    100018: dude:LeftHandIndex2
+    100020: dude:LeftHandIndex3
+    100022: dude:LeftHandIndex4
+    100024: dude:LeftHandMiddle1
+    100026: dude:LeftHandMiddle2
+    100028: dude:LeftHandMiddle3
+    100030: dude:LeftHandMiddle4
+    100032: dude:LeftHandPinky1
+    100034: dude:LeftHandPinky2
+    100036: dude:LeftHandPinky3
+    100038: dude:LeftHandPinky4
+    100040: dude:LeftHandRing1
+    100042: dude:LeftHandRing2
+    100044: dude:LeftHandRing3
+    100046: dude:LeftHandRing4
+    100048: dude:LeftHandThumb1
+    100050: dude:LeftHandThumb2
+    100052: dude:LeftHandThumb3
+    100054: dude:LeftHandThumb4
+    100056: dude:LeftLeg
+    100058: dude:LeftShoulder
+    100060: dude:LeftToe_End
+    100062: dude:LeftToeBase
+    100064: dude:LeftUpLeg
+    100066: dude:Neck
+    100068: dude:RightArm
+    100070: dude:RightFoot
+    100072: dude:RightForeArm
+    100074: dude:RightHand
+    100076: dude:RightHandIndex1
+    100078: dude:RightHandIndex2
+    100080: dude:RightHandIndex3
+    100082: dude:RightHandIndex4
+    100084: dude:RightHandMiddle1
+    100086: dude:RightHandMiddle2
+    100088: dude:RightHandMiddle3
+    100090: dude:RightHandMiddle4
+    100092: dude:RightHandPinky1
+    100094: dude:RightHandPinky2
+    100096: dude:RightHandPinky3
+    100098: dude:RightHandPinky4
+    100100: dude:RightHandRing1
+    100102: dude:RightHandRing2
+    100104: dude:RightHandRing3
+    100106: dude:RightHandRing4
+    100108: dude:RightHandThumb1
+    100110: dude:RightHandThumb2
+    100112: dude:RightHandThumb3
+    100114: dude:RightHandThumb4
+    100116: dude:RightLeg
+    100118: dude:RightShoulder
+    100120: dude:RightToe_End
+    100122: dude:RightToeBase
+    100124: dude:RightUpLeg
+    100126: dude:Spine
+    100128: dude:Spine1
+    100130: dude:Spine2
+    100132: //RootNode
+    400000: dude:Dude
+    400002: dude:Head
+    400004: dude:HeadTop_End
+    400006: dude:Hips
+    400008: dude:LeftArm
+    400010: dude:LeftFoot
+    400012: dude:LeftForeArm
+    400014: dude:LeftHand
+    400016: dude:LeftHandIndex1
+    400018: dude:LeftHandIndex2
+    400020: dude:LeftHandIndex3
+    400022: dude:LeftHandIndex4
+    400024: dude:LeftHandMiddle1
+    400026: dude:LeftHandMiddle2
+    400028: dude:LeftHandMiddle3
+    400030: dude:LeftHandMiddle4
+    400032: dude:LeftHandPinky1
+    400034: dude:LeftHandPinky2
+    400036: dude:LeftHandPinky3
+    400038: dude:LeftHandPinky4
+    400040: dude:LeftHandRing1
+    400042: dude:LeftHandRing2
+    400044: dude:LeftHandRing3
+    400046: dude:LeftHandRing4
+    400048: dude:LeftHandThumb1
+    400050: dude:LeftHandThumb2
+    400052: dude:LeftHandThumb3
+    400054: dude:LeftHandThumb4
+    400056: dude:LeftLeg
+    400058: dude:LeftShoulder
+    400060: dude:LeftToe_End
+    400062: dude:LeftToeBase
+    400064: dude:LeftUpLeg
+    400066: dude:Neck
+    400068: dude:RightArm
+    400070: dude:RightFoot
+    400072: dude:RightForeArm
+    400074: dude:RightHand
+    400076: dude:RightHandIndex1
+    400078: dude:RightHandIndex2
+    400080: dude:RightHandIndex3
+    400082: dude:RightHandIndex4
+    400084: dude:RightHandMiddle1
+    400086: dude:RightHandMiddle2
+    400088: dude:RightHandMiddle3
+    400090: dude:RightHandMiddle4
+    400092: dude:RightHandPinky1
+    400094: dude:RightHandPinky2
+    400096: dude:RightHandPinky3
+    400098: dude:RightHandPinky4
+    400100: dude:RightHandRing1
+    400102: dude:RightHandRing2
+    400104: dude:RightHandRing3
+    400106: dude:RightHandRing4
+    400108: dude:RightHandThumb1
+    400110: dude:RightHandThumb2
+    400112: dude:RightHandThumb3
+    400114: dude:RightHandThumb4
+    400116: dude:RightLeg
+    400118: dude:RightShoulder
+    400120: dude:RightToe_End
+    400122: dude:RightToeBase
+    400124: dude:RightUpLeg
+    400126: dude:Spine
+    400128: dude:Spine1
+    400130: dude:Spine2
+    400132: //RootNode
+    4300000: dude:Dude
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: dude:Dude
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
